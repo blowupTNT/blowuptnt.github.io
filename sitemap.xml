@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://.github.io/blog/</loc>
-    <lastmod>2018-05-26T21:01:34+08:00</lastmod>
+    <lastmod>2018-05-27T19:50:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://.github.io/blog/zuowen1/</loc>
+    <lastmod>2018-05-27T19:50:09+08:00</lastmod>
   </url>
   
   <url>
@@ -58,8 +63,14 @@
   </url>
   
   <url>
+    <loc>https://.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2018-05-27T19:50:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://.github.io/</loc>
-    <lastmod>2018-05-26T21:01:34+08:00</lastmod>
+    <lastmod>2018-05-27T19:50:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
