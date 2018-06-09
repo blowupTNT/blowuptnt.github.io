@@ -8,22 +8,22 @@
   </url>
   
   <url>
-    <loc>https://.github.io/blog/zuowen1/</loc>
+    <loc>https://.github.io/blog/composition-2/</loc>
     <lastmod>2018-05-27T19:50:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://.github.io/blog/bullet1/</loc>
+    <loc>https://.github.io/blog/bullet-2/</loc>
     <lastmod>2018-05-26T21:01:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://.github.io/blog/bullet/</loc>
+    <loc>https://.github.io/blog/bullet-1/</loc>
     <lastmod>2018-05-26T20:57:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://.github.io/blog/composition/</loc>
+    <loc>https://.github.io/blog/composition-1/</loc>
     <lastmod>2018-05-26T20:50:12+08:00</lastmod>
   </url>
   
@@ -58,7 +58,13 @@
   
   <url>
     <loc>https://.github.io/tags/%E4%BD%9C%E6%96%87/</loc>
-    <lastmod>2018-05-26T20:50:12+08:00</lastmod>
+    <lastmod>2018-05-27T19:50:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://.github.io/tags/%E5%86%B7%E7%9F%A5%E8%AF%86/</loc>
+    <lastmod>2018-05-26T21:01:34+08:00</lastmod>
     <priority>0</priority>
   </url>
   
