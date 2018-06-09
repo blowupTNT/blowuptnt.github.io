@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "zh"
 
 [params.info]
-description = "404 not found"
+description = "没有伞的孩子必须努力奔跑"
 title404 = "Nothing's here!"
 
 [params.assets]
